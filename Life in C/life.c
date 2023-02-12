@@ -7,8 +7,8 @@
 #define COL 30
 #define ROW 25
 
-int grid[COL][ROW];
-int next[COL][ROW]; // 연산을 위한 grid 복제 배열
+int grid[ROW][COL];
+int next[ROW][ROW]; // 연산을 위한 grid 복제 배열
 int speed = 500; // 실행 속도, 밀리초 단위
 
 void gotoxy(int x, int y) {
