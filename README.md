@@ -3,7 +3,7 @@
 수학자 존 콘웨이가 만든 세포 자동자로   
 특정 규칙에 따라 생기고 없어지는 세포들을 관찰하는 간단한 게임입니다.   
 
-<img src="https://w.namu.la/s/46483053336751b61e734f04e827b6dc1f915461d0c0b5cf9c465dbc3ac0efae338efc8dc3d09b15f0ac4243e5f2fc91f8c511bdc0da5d3264637e27c604509fd444bd6acbfad155f68e560c26e62ae3c6f46c3c0bd48d7a628b6c20f8e154e2" width="500">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" width="500">
 
 ## 생명 게임의 규칙
 생명 게임의 규칙은 이렇습니다.
